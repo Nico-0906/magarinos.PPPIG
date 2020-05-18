@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589839555 source:c:\users\agos\desktop\parcial progra\magarinos.pppig\magarinospppig\main.c
+	<stdio.h>
+	<stdlib.h>
+
